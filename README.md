@@ -1,9 +1,9 @@
 ## Hi there, I'm Andrew 👋
-:rocket:### Software Engineer with Full-Stack Experience
+### :rocket: Software Engineer with Full-Stack Experience
 I am currently a Computer Science student at the University of Connecticut with a minor in Mathematics and a passion for software developement.  
 My experience ranges from backend Python projects, to front end UI creation, to full-stack projects!  
 
-:microscope:## Interested in learning more about me?
+## :microscope: Interested in learning more about me?
 Check out [my portfolio](https://www.andrewerdei.com/)   
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-erdei/)
 
