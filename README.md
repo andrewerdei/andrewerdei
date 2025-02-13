@@ -4,8 +4,8 @@ I am currently a Computer Science student at the University of Connecticut with 
 My experience ranges from backend Python projects, to front end UI creation, to full-stack projects!  
 
 ## :microscope: Interested in learning more about me?
-Check out [my portfolio](https://www.andrewerdei.com/)   
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-erdei/)
+* Check out [my portfolio](https://www.andrewerdei.com/)   
+* Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andrew-erdei/)
 
 
 
